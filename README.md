@@ -1,6 +1,6 @@
 ## N76E003_LIB
 
-[![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)]()
+[![Build Status](https://travis-ci.org/mywinchester/N76E003_LIB.svg?branch=master)](https://travis-ci.org/mywinchester/N76E003_LIB)
 [![License](https://img.shields.io/apm/l/vim-mode.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
 用于N76E003芯片的库文件。
